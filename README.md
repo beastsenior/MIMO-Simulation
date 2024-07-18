@@ -1,3 +1,6 @@
+分叉后准备增加一些信号检测算法，MF,ZF等等
+________________________________________________________________________________________
+原地址为https://github.com/ZJU-IICNS-AICOMM/MIMO-Simulation
 # MIMO-Simulation
 Simulation of digital Communication with MIMO in Python.
 
